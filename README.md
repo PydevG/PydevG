@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PydevG
 - 👀 I’m interested in Backend development, Django,  docker, kubernetes, APIs
-- 🌱 I’m currently learning Java and Django Rest Framework
+- 🌱 I’m currently learning Golang and Django Rest Framework
 - 💞️ I’m looking to collaborate on Django web app for finance
 - 📫 How to reach me [Email - peterndindi819@gmail.com]
 - 😄 Pronouns: HE
