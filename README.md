@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @PydevG
-- 👀 I’m interested in Backend development, Django,  docker, kubernetes, APIs
-- 🌱 I’m currently learning Django Rest Framework
-- 💞️ I’m looking to collaborate on Django web app for finance
-- 📫 How to reach me [Email - peterndindi44@gmail.com]
-- 😄 Pronouns: HE
-- ⚡ Fun fact: pyguy keeeys---
+- Hi, I’m @PydevG
+- I’m interested in Backend development, Django,  docker, kubernetes, APIs
+- I’m currently learning Frappe Framework
+- How to reach me [Email - peterndindi44@gmail.com]
+- Pronouns: HE
+- Fun fact: "Dreamt" is the only English word that ends with the letters "mt".
 
 <!---
 PydevG/PydevG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
