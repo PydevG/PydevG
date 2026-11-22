@@ -1,5 +1,5 @@
 - Hi, I’m @PydevG
-- I’m interested in Backend development, Django,  docker, kubernetes, APIs
+- I’m interested in Backend development, Django,  docker, ERP Systems, APIs
 - I’m currently learning Frappe Framework
 - How to reach me [Email - peterndindi44@gmail.com]
 - Pronouns: HE
